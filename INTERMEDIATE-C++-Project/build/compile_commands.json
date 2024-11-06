@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hazem/INTERMEDIATE-C++-Project/build",
+  "command": "/usr/bin/c++  -I/home/hazem/INTERMEDIATE-C++-Project/includes -I/home/hazem/INTERMEDIATE-C++-Project/utils -g -o CMakeFiles/PRINT.dir/src/main.cpp.o -c /home/hazem/INTERMEDIATE-C++-Project/src/main.cpp",
+  "file": "/home/hazem/INTERMEDIATE-C++-Project/src/main.cpp"
+}
+]
