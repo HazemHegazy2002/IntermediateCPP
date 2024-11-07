@@ -1,1 +1,1 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/PRINT.dir/src/main.cpp.o -o PRINT 
+/usr/bin/g++ -rdynamic CMakeFiles/PRINT.dir/src/main.cpp.o -o PRINT 

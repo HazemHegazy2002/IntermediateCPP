@@ -1,3 +1,3 @@
-/home/hazem/INTERMEDIATE-C++-Project/build/CMakeFiles/PRINT.dir
-/home/hazem/INTERMEDIATE-C++-Project/build/CMakeFiles/edit_cache.dir
-/home/hazem/INTERMEDIATE-C++-Project/build/CMakeFiles/rebuild_cache.dir
+/home/hazem/INTERMIDIATE-C++/INTERMEDIATE-C++-Project/build/CMakeFiles/PRINT.dir
+/home/hazem/INTERMIDIATE-C++/INTERMEDIATE-C++-Project/build/CMakeFiles/edit_cache.dir
+/home/hazem/INTERMIDIATE-C++/INTERMEDIATE-C++-Project/build/CMakeFiles/rebuild_cache.dir

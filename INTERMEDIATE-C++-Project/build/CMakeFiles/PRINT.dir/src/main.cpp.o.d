@@ -1,5 +1,5 @@
 CMakeFiles/PRINT.dir/src/main.cpp.o: \
- /home/hazem/INTERMEDIATE-C++-Project/src/main.cpp \
+ /home/hazem/INTERMIDIATE-C++/INTERMEDIATE-C++-Project/src/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -146,4 +146,4 @@ CMakeFiles/PRINT.dir/src/main.cpp.o: \
  /usr/include/c++/11/bits/basic_ios.tcc \
  /usr/include/c++/11/bits/ostream.tcc /usr/include/c++/11/istream \
  /usr/include/c++/11/bits/istream.tcc \
- /home/hazem/INTERMEDIATE-C++-Project/includes/numeric.hpp
+ /home/hazem/INTERMIDIATE-C++/INTERMEDIATE-C++-Project/includes/numeric.hpp
